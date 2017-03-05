@@ -1,0 +1,5 @@
+C:\Users\mrale\RiderProjects\Voove.Utils\Common\bin\Debug\Common.dll
+C:\Users\mrale\RiderProjects\Voove.Utils\Common\bin\Debug\Common.pdb
+C:\Users\mrale\RiderProjects\Voove.Utils\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\mrale\RiderProjects\Voove.Utils\Common\obj\Debug\Common.dll
+C:\Users\mrale\RiderProjects\Voove.Utils\Common\obj\Debug\Common.pdb

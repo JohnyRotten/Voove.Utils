@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebChecker", "WebChecker\WebChecker.csproj", "{684A633C-2A72-432D-BA7B-8582E1706D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{FFFE390C-1221-42B7-BA8E-CB3D0A4E0CB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{684A633C-2A72-432D-BA7B-8582E1706D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684A633C-2A72-432D-BA7B-8582E1706D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684A633C-2A72-432D-BA7B-8582E1706D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684A633C-2A72-432D-BA7B-8582E1706D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFE390C-1221-42B7-BA8E-CB3D0A4E0CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFE390C-1221-42B7-BA8E-CB3D0A4E0CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFE390C-1221-42B7-BA8E-CB3D0A4E0CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFE390C-1221-42B7-BA8E-CB3D0A4E0CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

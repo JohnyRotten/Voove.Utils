@@ -1,0 +1,7 @@
+C:\Users\mrale\RiderProjects\Voove.Utils\WebChecker\bin\Debug\WebChecker.exe
+C:\Users\mrale\RiderProjects\Voove.Utils\WebChecker\bin\Debug\WebChecker.pdb
+C:\Users\mrale\RiderProjects\Voove.Utils\WebChecker\bin\Debug\Common.dll
+C:\Users\mrale\RiderProjects\Voove.Utils\WebChecker\bin\Debug\Common.pdb
+C:\Users\mrale\RiderProjects\Voove.Utils\WebChecker\obj\Debug\WebChecker.csprojResolveAssemblyReference.cache
+C:\Users\mrale\RiderProjects\Voove.Utils\WebChecker\obj\Debug\WebChecker.exe
+C:\Users\mrale\RiderProjects\Voove.Utils\WebChecker\obj\Debug\WebChecker.pdb
